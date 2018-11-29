@@ -17,6 +17,8 @@ public class PROG_Boletin_10 {
         } while (Metodos.reiniciar());
 
         System.exit(0);
+        
+        //COMENTARIO PARA EJERCICIO DE COD PARA APRENDER A HACER UN FETCH Y MERGE
     }
 }
     
