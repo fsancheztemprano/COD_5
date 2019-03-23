@@ -1,4 +1,4 @@
-package prog_boletin_10;
+package b10;
 
 /**
  *
